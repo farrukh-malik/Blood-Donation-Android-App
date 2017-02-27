@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "146882949030",
+    "firebase_url": "https://bloodbank-13d31.firebaseio.com",
+    "project_id": "bloodbank-13d31",
+    "storage_bucket": "bloodbank-13d31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146882949030:android:6801593626b72e70",
+        "android_client_info": {
+          "package_name": "com.example.farrukhmalik.ewpappfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146882949030-6esf01v2p01j2tn1e703a2pfd62avnog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAffaK0t9rrT8-ycjiAeAVbE40iu4X9vvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
